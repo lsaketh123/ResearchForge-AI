@@ -111,3 +111,10 @@ ResearchHub-AI/
    ```
    *The client application launches at `http://localhost:3000`.*
    *All `/api/*` network requests sent from the client are automatically proxied to port 8000 by Vite.*
+
+
+# 🎥 Demo Video
+
+Watch the full project demo here:
+
+[(https://drive.google.com/file/d/1c6Isumjiu1Ne3D4ca9DXjYAUXSHrzFE9/view?usp=sharing)]
